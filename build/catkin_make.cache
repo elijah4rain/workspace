@@ -1,0 +1,2 @@
+video_radiation_noise
+-DCATKIN_DEVEL_PREFIX=/home/elijah/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/elijah/catkin_ws/install -G Unix Makefiles
